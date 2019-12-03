@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575193687 source:/home/bowenddd/exam/exam5/file_system/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
